@@ -85,6 +85,7 @@ section{padding:80px 8%}
 }
 
 /* Cards */
+
 .card{
   background:rgba(255,255,255,0.05);
   backdrop-filter:blur(10px);
